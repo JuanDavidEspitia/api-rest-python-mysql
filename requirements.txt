@@ -1,1 +1,6 @@
 pre-commit
+flask
+flask-sqlalchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+pymysql
